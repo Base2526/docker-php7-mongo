@@ -1,0 +1,6 @@
+{
+    "name": "vendor/test",
+    "require": {
+        "mongodb/mongodb": "^1.5"
+    }
+}
